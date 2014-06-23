@@ -1,4 +1,0 @@
-mathquiz
-========
-
-Math Quiz
